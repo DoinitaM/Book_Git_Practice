@@ -2,3 +2,4 @@
 git practice
 page 2 of my book
  new word
+ i edit page 2 after commit it
