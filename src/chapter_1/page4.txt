@@ -1,0 +1,3 @@
+ hello
+ tuesday
+ git practice
